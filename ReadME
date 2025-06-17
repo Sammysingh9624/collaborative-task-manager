@@ -80,7 +80,7 @@ A full-featured, modern task management web application built with **Next.js**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/collaborative-task-manager.git
+git clone https://github.com/Sammysingh9624/collaborative-task-manager.git
 cd collaborative-task-manager
 ```
 
@@ -137,15 +137,3 @@ https://themealdb.com/api/json/v1/1/search.php?s=pasta
 - [ ] Authentication & user-specific task filtering
 - [ ] Backend integration (e.g., Prisma + PostgreSQL)
 - [ ] Responsive drag-and-drop support
-
----
-
-## 📝 License
-
-MIT License
-
----
-
-## 👤 Author
-
-Built with 💙 by [Your Name](https://github.com/your-username) as part of a technical interview task.
